@@ -41,6 +41,11 @@ Jinan, Shandong, China
 
 - B.E. in Software Engineering
 
+## Research Interests
+
+- Machine reading comprehension and question answering
+- Pre-training for natural language understanding
+
 ## Publications
 
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
