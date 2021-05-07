@@ -2,11 +2,12 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:jiaofangkai@hotmail.com
+  text: jiaofangkai@hotmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://sparkjiao.github.io
+  text: sparkjiao.github.io
+phone: +86 178 6415 4896
 ---
 
 # Wode **Ni**
@@ -23,32 +24,22 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Shandong University University** `2019.9 -`
 
 ```
-Pittsburgh, PA
+Qingdao, Shandong, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Master in Computer Science and Technology
+- Supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Shandong University** `2015.9 - 2019.6`
 
 ```
-Carlisle, PA
+Jinan, Shandong, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.E. in Software Engineering
 
 ## Publications
 
