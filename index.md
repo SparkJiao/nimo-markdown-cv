@@ -24,7 +24,7 @@ Supported arguments:
 
 ## Education
 
-### **Shandong University** `2019.9 -`
+### **Shandong University** `2019.9 - 2022.6 (expected)`
 
 ```
 Qingdao, Shandong, China
