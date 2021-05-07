@@ -10,7 +10,7 @@ homepage:
 phone: +86 178 6415 4896
 ---
 
-## Fangkai JIAO
+# Fangkai JIAO
 
 <!--
 include contact information from the front matter
@@ -49,16 +49,16 @@ Jinan, Shandong, China
 ## Publications
 
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
-**Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _ACL 2021 (Findings)._<br>
+**Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _ACL 2021 (Findings)._
 [[repo](https://github.com/SparkJiao/retrieval-based-mrc-pretraining)]
 
 ### **Conversational Image Search**
-Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Under review by TIP._<br>
+Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Under review by TIP.
 [[repo](https://github.com/SparkJiao/LARCH)]
 
 ### [**A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**](https://arxiv.org/pdf/2005.05189.pdf)
 
-Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._<br>
+Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[PDF](https://arxiv.org/pdf/2005.05189.pdf)]
 [[repo](https://github.com/SparkJiao/Self-Training-MRC)]
 
