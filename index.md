@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Fangkai Jiao
 email:
   url: mailto:jiaofangkai@hotmail.com
   text: jiaofangkai@hotmail.com
@@ -10,7 +10,7 @@ homepage:
 phone: +86 178 6415 4896
 ---
 
-# Wode **Ni**
+# Fangkai Jiao
 
 <!--
 include contact information from the front matter
@@ -43,15 +43,14 @@ Jinan, Shandong, China
 
 ## Publications
 
-### [**REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**]
+### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie.<br> 
 _ACL 2021 (Findings)._<br>
 [[repo](https://github.com/SparkJiao/retrieval-based-mrc-pretraining)]
 
-### [**Conversational Image Search**]
+### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian.<br>
 _Under review of TIP._<br>
-[[PDF]]
 [[repo](https://github.com/SparkJiao/LARCH)]
 
 ### [**A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**](https://arxiv.org/pdf/2005.05189.pdf)
@@ -77,19 +76,15 @@ Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Dean Scholarship `School of Software, 2018` <br>
+Bronze Medal in The ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
+Silver Medal in The ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br>
+Bronze Medal in The ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br>
+Silver Medal in The ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br>
+National Scholarship `Ministry of Education, 2016` <br>
 
 ---
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
