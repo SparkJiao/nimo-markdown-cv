@@ -27,7 +27,7 @@ Supported arguments:
 ### **Shandong University** `2019.9 - 2022.6 (expected)`
 
 ```
-Qingdao, Shandong, China
+GPA: 90.12/100
 ```
 
 - Master in Computer Science and Technology
@@ -36,7 +36,7 @@ Qingdao, Shandong, China
 ### **Shandong University** `2015.9 - 2019.6`
 
 ```
-Jinan, Shandong, China
+GPA: 85.03/100
 ```
 
 - B.E. in Software Engineering
@@ -67,7 +67,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ### **Damo Academy, Alibaba Group** `2020.7 - 2021.2`
 _Research Intern_<br>
-Advised by Dr. [Feng ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
+Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
 
 ### **CoAI Group, Tsinghua University** `2018.10 - 2019.8`
 
