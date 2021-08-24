@@ -54,7 +54,7 @@ GPA: 85.03/100
 [[repo](https://github.com/SparkJiao/retrieval-based-mrc-pretraining)]
 
 ### **Conversational Image Search**
-Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Under review by TIP_.
+Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP 2021_.
 [[repo](https://github.com/SparkJiao/LARCH)]
 
 ### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
