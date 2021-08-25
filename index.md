@@ -55,6 +55,7 @@ GPA: 85.03/100
 
 ### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP 2021_.
+[[pdf](https://sparkjiao.github.io/files/2021TIP_Contextual_Image_Search.pdf)]
 [[repo](https://github.com/SparkJiao/LARCH)]
 
 ### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
