@@ -51,7 +51,7 @@ GPA: 85.03/100
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _ACL 2021 (Findings)._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
-[[repo](https://github.com/SparkJiao/retrieval-based-mrc-pretraining)]
+[[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
 
 ### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP 2021_.
