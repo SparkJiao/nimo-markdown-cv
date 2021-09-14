@@ -47,7 +47,7 @@ GPA: 85.03/100
 - Pre-training for natural language understanding
 
 ## Publications
-\* means equal contribution.
+<font size=2>\* means equal contribution.</font>
 
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
@@ -69,13 +69,11 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 ## Experience
 
 ### **Damo Academy, Alibaba Group** `2020.7 - 2021.2`
-_Research Intern_<br>
-Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
+_Research Intern._ Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
 
 ### **CoAI Group, Tsinghua University** `2018.10 - 2019.8`
 
-_Research Intern_<br>
-Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
+_Research Intern._ Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 
 
 ## Honors & Awards
