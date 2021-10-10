@@ -10,7 +10,7 @@ homepage:
 phone: +86 178 6415 4896
 ---
 
-## Fangkai JIAO
+# <font size=6>Fangkai JIAO</font>
 
 <!--
 include contact information from the front matter
