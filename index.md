@@ -70,8 +70,8 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 ### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
 Fangkai Jiao, Yangyang Guo, Liqiang Nie. _Under review by ACL 2021._
 [[pdf]()]
-[[anonymous pdf version]()]
-_5-th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 5-th among single models._
+[[anonymous pdf version]()]  
+_5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 3th among single models, 1st among RoBERTa-L-X._
 
 ## Experience
 
