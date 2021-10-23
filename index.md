@@ -22,9 +22,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## **Education**
 
-### **Shandong University** `2019.9 - 2022.6 (expected)`
+### Shandong University `2019.9 - 2022.6 (expected)`
 
 ```
 GPA: 90.12/100
@@ -33,7 +33,7 @@ GPA: 90.12/100
 - M.Sc. in Computer Science and Technology
 - Supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
 
-### **Shandong University** `2015.9 - 2019.6`
+### Shandong University `2015.9 - 2019.6`
 
 ```
 GPA: 85.03/100
@@ -41,49 +41,49 @@ GPA: 85.03/100
 
 - B.E. in Software Engineering
 
-## Research Interests
+## **Research Interests**
 
 - Machine reading comprehension and question answering
 - Pre-training for natural language understanding
 
-## Publications
+## **Publications**
 <font size=2>* means equal contribution.</font>
 
-### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
+### REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
 [[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
 
-### **Conversational Image Search**
+### Conversational Image Search
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[repo](https://github.com/SparkJiao/LARCH)]
 
-### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
+### A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction
 
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[repo](https://github.com/SparkJiao/Self-Training-MRC)]
 
-## Preprints
+## **Preprints**
 
-### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
+### MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning
 **Fangkai Jiao**, Yangyang Guo, Liqiang Nie. _Under review by ACL 2022._
 [[pdf]()]
 [[anonymous pdf]()]  
 _5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 3th among single models, 1st among RoBERTa-L-based models._
 
-## Experience
+## **Experience**
 
-### **Damo Academy, Alibaba Group** `2020.7 - 2021.2`
+### Damo Academy, Alibaba Group `2020.7 - 2021.2`
 _Research Intern._ Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
 
-### **CoAI Group, Tsinghua University** `2018.10 - 2019.8`
+### CoAI Group, Tsinghua University `2018.10 - 2019.8`
 
 _Research Intern._ Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 
 
-## Honors & Awards
+## **Honors & Awards**
 
 Dean Scholarship `School of Software, 2018` <br>
 Bronze Medal in The ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
