@@ -49,12 +49,12 @@ GPA: 85.03/100
 ## **Publications**
 <font size=2>* means equal contribution.</font>
 
-### REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training
+*REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training*
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
 [[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
 
-### Conversational Image Search
+*Conversational Image Search*
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[repo](https://github.com/SparkJiao/LARCH)]
