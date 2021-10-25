@@ -72,16 +72,18 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 **Fangkai Jiao**, Yangyang Guo, Liqiang Nie. _Under review by ACL 2022._
 [[pdf]()]
 [[anonymous pdf]()]  
-_5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 3th among single models, 1st among RoBERTa-L-based models._
+_5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 3th among single models, and 1st among RoBERTa-Large-based models._
 
 ## **Experience**
 
 ### Damo Academy, Alibaba Group `2020.7 - 2021.2`
-_Research Intern._ Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
+_Research Intern._   
+Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
 
 ### CoAI Group, Tsinghua University `2018.10 - 2019.8`
 
-_Research Intern._ Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
+_Research Intern._   
+Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 
 
 ## **Honors & Awards**
