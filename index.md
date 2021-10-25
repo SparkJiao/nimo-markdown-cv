@@ -86,6 +86,7 @@ _Research Intern._ Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/
 
 ## **Honors & Awards**
 
+Dean Scholarship `School of Computer Science and Technology, 2021` <br>
 Dean Scholarship `School of Software, 2018` <br>
 Bronze Medal in The ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
 Silver Medal in The ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br>
