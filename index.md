@@ -74,6 +74,12 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 [[anonymous pdf]()]  
 _5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 3th among single models, and 1st among RoBERTa-Large-based models._
 
+## **Projects**
+
+### SLQA
+
+An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering (ACL 2018). [[repo](https://github.com/SparkJiao/SLQA)]
+
 ## **Experience**
 
 ### Damo Academy, Alibaba Group `2020.7 - 2021.2`
