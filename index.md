@@ -78,7 +78,7 @@ _5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/l
 
 ### SLQA
 
-An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering (ACL 2018). [[repo](https://github.com/SparkJiao/SLQA)]
+*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering (ACL 2018).* [[repo](https://github.com/SparkJiao/SLQA)]
 
 ## **Experience**
 
