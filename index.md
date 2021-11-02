@@ -72,7 +72,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 **Fangkai Jiao**, Yangyang Guo, Liqiang Nie. _Under review by ACL 2022._
 [[pdf]()]
 [[anonymous pdf]()]  
-_5th on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), 3th among single models, and 1st among RoBERTa-Large-based models._
+_**2nd** on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), **1st** among single models._
 
 ## **Projects**
 
