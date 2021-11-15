@@ -66,13 +66,13 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[repo](https://github.com/SparkJiao/Self-Training-MRC)]
 
-## **Preprints**
+<!-- ## **Preprints**
 
 ### MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._
 [[pdf](https://sparkjiao.github.io/files/reclor_challenge-1115-preprint.pdf)]
 [[anonymous preprint](https://openreview.net/forum?id=-VOzvUxiGyZ)]  
-_**2nd** on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), **1st** among single models._
+_**2nd** on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), **1st** among single models._ -->
 
 ## **Projects**
 
