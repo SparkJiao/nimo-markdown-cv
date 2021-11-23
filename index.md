@@ -46,8 +46,8 @@ GPA: 85.03/100
 - Pre-training for natural language understanding
 
 ## **Publications**
-<font size=2>* means equal contribution.</font>
-<!-- ##### \* means equal contribution. -->
+<!-- <font size=2>* means equal contribution.</font> -->
+##### \* means equal contribution.
 
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
