@@ -201,7 +201,7 @@ h3 {
 
 code {
   font-family: "Palatino";
-  font-style: italic;
+  /* font-style: italic; */
   float: right;
 }
 

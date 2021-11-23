@@ -30,7 +30,7 @@ Supported arguments:
 GPA: 90.12/100  
 ```
 
-- M.Sc. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
+- M.Sc. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)  
 
 ### Shandong University `2015.9 - 2019.6`  
 
@@ -38,7 +38,7 @@ GPA: 90.12/100
 GPA: 85.03/100  
 ```
 
-- B.E. in Software Engineering
+- B.E. in Software Engineering  
 
 ## **Research Interests**
 
@@ -46,10 +46,10 @@ GPA: 85.03/100
 - Pre-training for natural language understanding
 
 ## **Publications**
-<!-- <font size=2>* means equal contribution.</font> -->
-##### \* means equal contribution.
+<font size=2>* means equal contribution.</font>
+<!-- ##### \* means equal contribution. -->
 
-### REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training
+### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
 [[code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
@@ -59,7 +59,7 @@ GPA: 85.03/100
 * I am reponsible for almost all of the work and the others co-authors give me valuable suggestions about the paper writing.  
 
 
-### Conversational Image Search
+### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[code](https://github.com/SparkJiao/LARCH)]  
@@ -69,7 +69,7 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 * The main idea comes from Prof. Nie and Wenjie Wang. I have proposed several improvements to it, including: (1) increasing the edges of the constructed graph, (2) considering the session-related knowledge, and (3) introducing the gate mechanism.  
 * In addition to the above suggestions, my main contributions to this work include system implemetation, experiments, the paper writing of methodology, dataset and experiments.  
 
-### A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction
+### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
 
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
@@ -81,7 +81,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ## **Preprints**
 
-### MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning
+### *MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning*
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._  
 * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
 * I am reponsible for all the work. The other co-authors help me polish the paper writing.  
@@ -109,6 +109,7 @@ Dean Scholarship `School of Computer Science and Technology (2021) & School of S
 Bronze Medal in the ACM-ICPC Asia Regional Contest `China-Final (2016) & Urumqi Site (2017), ICPC` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site (2016 & 2017), ICPC` <br>
 National Scholarship `Ministry of Education, 2016` <br>
+
 <!-- Dean Scholarship `School of Software, 2018` <br> -->
 <!-- Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br> -->
 <!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br> -->
