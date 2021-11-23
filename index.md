@@ -53,7 +53,7 @@ GPA: 85.03/100
 ### REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
-[[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
+[[code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
 * The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
 * We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction (SSP) and retrieval-based masked language modeling (RMLM), to augment the pre-trained language models with the ability of evidence extraction.   
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
@@ -63,8 +63,8 @@ GPA: 85.03/100
 ### Conversational Image Search
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
-[[repo](https://github.com/SparkJiao/LARCH)]  
-* Existing works have overlooked the (1) the session structure and the multimodal information in the conversational query, and (2) the multiform knowledge.  
+[[code](https://github.com/SparkJiao/LARCH)]  
+* Existing works have overlooked the (1) the session structure in the conversational query, and (2) the multiform knowledge.  
 * We devise a novel contextual image search scheme, LARCH, to facilitate conversational image search. 
 * Besides, we construct a augmented dataset based on MMD to facilitate future research.  
 * The main idea comes from Prof. Nie and Wenjie Wang. I have proposed several improvements to it, including: (1) increasing the edges of the constructed graph, (2) considering both the session-related and vision-related knowledge, and (3) introducing the gate mechanism for knowledge fusion.  
@@ -74,7 +74,7 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
-[[repo](https://github.com/SparkJiao/Self-Training-MRC)]  
+[[code](https://github.com/SparkJiao/Self-Training-MRC)]  
 * The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.    
 * In this work, we propose a framework based on self-training, which supervises the evidence extractor with auto-generated evidence labels in an iterative process.    
 * Our method achieves significant improvements on seven datasets over three MRC tasks.  
@@ -87,13 +87,13 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
 * We propose a contrastive self-supervised method for logical reasoning-oriented pre-training.
 * I am reponsible for all the work. The other co-authors help me polish the paper writing.  
-* Our system achieves new state-of-art performance on both ReClor and LogiQA. We are the **2nd** on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) (**1st** among single models).  
+* Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
 
 ## **Projects**
 
 ### SLQA
 
-*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering (ACL 2018).* [[repo](https://github.com/SparkJiao/SLQA)] (75 stars)
+*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks (ACL 2018).* [[code](https://github.com/SparkJiao/SLQA)] (75 stars)
 
 ## **Experience**
 
