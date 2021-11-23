@@ -199,6 +199,11 @@ h3 {
   margin-top: 10px;
 }
 
+h5 {
+  font-size: 6pt;
+  font-style: italic;
+}
+
 code {
   /* font-family: "Palatino"; */
   font-family: "Times New Roman";
