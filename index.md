@@ -55,7 +55,7 @@ GPA: 85.03/100
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
 [[code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
 * The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
-* We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction (SSP) and retrieval-based masked language modeling (RMLM), to augment the pre-trained language models with the ability of evidence extraction.   
+* We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction and retrieval-based masked language modeling, to augment the pre-trained language models with the ability of evidence extraction.   
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
 * I am reponsible for almost all of the work. I mainly discuss the idea with Dr. Ji and the others co-authors give me valuable suggestions about the paper writing.  
 
