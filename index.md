@@ -30,8 +30,7 @@ Supported arguments:
 GPA: 90.12/100
 ```
 
-- M.Sc. in Computer Science and Technology
-- Supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
+- M.Sc. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
 
 ### Shandong University `2015.9 - 2019.6`
 
@@ -106,10 +105,10 @@ _Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu
 
 ## **Honors & Awards**
 
-Dean Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
-Dean Scholarship `School of Software, 2018` <br>
-Bronze Medal in the ACM-ICPC Asia Regional Contest `China-Final, ICPC, 2016 & Urumqi Site, ICPC, 2017` <br>
-Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site, ICPC, 2016 and 2017` <br>
+Dean Scholarship `School of Computer Science and Technology (2021) & School of Software (2018), Shandong University` <br>
+<!-- Dean Scholarship `School of Software, 2018` <br> -->
+Bronze Medal in the ACM-ICPC Asia Regional Contest `China-Final (2016) & Urumqi Site (2017), ICPC` <br>
+Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site (2016 & 2017), ICPC` <br>
 <!-- Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br> -->
 <!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br> -->
 National Scholarship `Ministry of Education, 2016` <br>
