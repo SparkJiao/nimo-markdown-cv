@@ -84,7 +84,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 ### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._  
 * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
-* I am reponsible for all the work. The other co-authors help me polish the paper writing.  
+* I complete almost all parts of this work. The other co-authors help me polish the paper writing.  
 * Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
 
 ## **Projects**
