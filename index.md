@@ -42,7 +42,7 @@ GPA: 85.03/100
 
 ## **Research Interests**
 
-- Machine reading comprehension and question answering
+- Question answering and machine reasoning
 - Pre-training for natural language understanding
 
 ## **Publications**
