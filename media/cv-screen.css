@@ -205,11 +205,6 @@ code {
   float: right;
 }
 
-/* ul::before {
-  type: disc;
-  margin-left: 50px
-} */
-
 li:before {
   content: "-";
   position: relative;
@@ -219,7 +214,7 @@ li:before {
 li {
   /*second line indent*/
   padding-left: 2.25em;
-  text-indent: -1.25em;
+  /* text-indent: -1.25em; */
   /*color: #777;*/
 }
 
