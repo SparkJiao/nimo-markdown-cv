@@ -66,7 +66,7 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 [[code](https://github.com/SparkJiao/LARCH)]  
 * Existing works have overlooked the (1) the session structure in the conversational query, and (2) the multiform knowledge.  
 * We devise a novel contextual image search scheme, LARCH, to facilitate conversational image search. 
-* Besides, we construct a augmented dataset based on MMD to facilitate future research.  
+<!-- * Besides, we construct a augmented dataset based on MMD to facilitate future research.   -->
 * The main idea comes from Prof. Nie and Wenjie Wang. I have proposed several improvements to it, including: (1) increasing the edges of the constructed graph, (2) considering both the session-related and vision-related knowledge, and (3) introducing the gate mechanism for knowledge fusion.  
 * In addition to the above suggestions, my main contributions to this work include system implemetation, experiments, the paper writing of methodology, dataset and experiments.  
 
