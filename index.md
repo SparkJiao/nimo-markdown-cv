@@ -93,7 +93,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ### SLQA
 
-*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks (ACL 2018) 111.* [[code](https://github.com/SparkJiao/SLQA)] (75 stars)
+*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks (ACL 2018).* [[code](https://github.com/SparkJiao/SLQA)] (75 stars)
 
 ## **Experience**
 

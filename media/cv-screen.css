@@ -205,10 +205,10 @@ code {
   float: right;
 }
 
-ul::before {
+/* ul::before {
   type: disc;
   margin-left: 50px
-}
+} */
 
 li:before {
   /* content: "-"; */
