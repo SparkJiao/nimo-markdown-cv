@@ -53,41 +53,55 @@ GPA: 85.03/100
 ### REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
-[[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
+[[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
+- The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
+- We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction (SSP) and retrieval-based masked language modeling (RMLM), to augment the pre-trained language models with the ability of evidence extraction.   
+- Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.  
+- I am reponsible for almost all of the work. I mainly discuss the idea with Dr. Ji and the others co-authors give me valuable suggestions about the paper writing.  
+
 
 ### Conversational Image Search
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
-[[repo](https://github.com/SparkJiao/LARCH)]
+[[repo](https://github.com/SparkJiao/LARCH)]  
+- The motivation of this project is that existing works have overlooked the (1) the session struction and the multimodal information contained in the conversational query and context, and (2) utilizing the multiform knowledge associated with images can bring further improvements to image search.  
+- We devise a novel contextual image search scheme, LARCH, to facilitate conversational image search, which comprises three novel components: graph-based query representation learning, multi-form knowledge modeling through memory network, and image representation learning with gate mechanism.  
+- Besides, we construct a augmented dataset based on MMD by selecting more negative candidate images to facilitate future research.  
+- The main idea comes from Prof. Nie and Wenjie Wang and I have proposed several improvements to the original idea, including: (1) increasing the edges of the constructed graph for query representation learning, (2) considering both the session-related and vision-related knowledge rather that employing only the latter one, and (3) introducing the gate mechanism for knowledge fusion.  
+- In addition to the above suggestions, my main contributions to this work include system implemetation, experiments, the paper writing of methodology, dataset and experiments.  
 
 ### A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction
 
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
-[[repo](https://github.com/SparkJiao/Self-Training-MRC)]
+[[repo](https://github.com/SparkJiao/Self-Training-MRC)]  
+- The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.    
+- In this work, we propose a framework based on self-training, which supervises the evidence extractor with auto-generated evidence labels in an iterative process.    
+- Our method achieves significant improvements on seven datasets over three MRC tasks.  
+- My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.  
 
 ## **Preprints**
 
 ### MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._  
-_**2nd** on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347), **1st** among single models._
+- The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
+- We propose a contrastive self-supervised method for logical reasoning-oriented pre-training, which includes two components, meta-path guided data construction and couterfactual data augmentation. THe former component takes meta-path as the logical structure of raw text to mine the positive instance from raw text. Then the negative instances are generated through relation editing. While the latter component is employed to eliminate the information shortcut during pre-training.  
+- Our system achieves new state-of-art performance on both ReClor and LogiQA. We are the **2nd** on [Reclor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) (**1st** among single models).  
 
 ## **Projects**
 
 ### SLQA
 
-*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering (ACL 2018).* [[repo](https://github.com/SparkJiao/SLQA)]
+*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering (ACL 2018).* [[repo](https://github.com/SparkJiao/SLQA)] (75 stars)
 
 ## **Experience**
 
 ### Damo Academy, Alibaba Group `2020.7 - 2021.2`
-_Research Intern._   
-Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
+_Research Intern._   Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
 
 ### CoAI Group, Tsinghua University `2018.10 - 2019.8`
 
-_Research Intern._   
-Advised by Dr. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
+_Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 
 
 ## **Honors & Awards**
