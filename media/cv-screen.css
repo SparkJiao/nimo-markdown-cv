@@ -206,7 +206,8 @@ code {
 }
 
 li:before {
-  content: "-";
+  /* content: "-"; */
+  list-style-type: disc;
   position: relative;
   left: -0.5em;
 }
