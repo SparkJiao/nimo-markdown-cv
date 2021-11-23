@@ -205,13 +205,13 @@ code {
   float: right;
 }
 
-/* ul::before {
-
-} */
+ul::before {
+  type: disc;
+  margin-left: 50px
+}
 
 li:before {
   /* content: "-"; */
-  type: disc;
   position: relative;
   left: -0.5em;
 }
