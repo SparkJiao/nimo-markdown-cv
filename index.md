@@ -57,7 +57,7 @@ GPA: 85.03/100
 * The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
 * We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction and retrieval-based masked language modeling, to augment the pre-trained language models with the ability of evidence extraction.   
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
-* I am reponsible for almost all of the work. I mainly discuss the idea with Dr. Ji and the others co-authors give me valuable suggestions about the paper writing.  
+* I am reponsible for almost all of the work and the others co-authors give me valuable suggestions about the paper writing.  
 
 
 ### Conversational Image Search
@@ -67,7 +67,7 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 * Existing works have overlooked the (1) the session structure in the conversational query, and (2) the multiform knowledge.  
 * We devise a novel contextual image search scheme, LARCH, to facilitate conversational image search. 
 <!-- * Besides, we construct a augmented dataset based on MMD to facilitate future research.   -->
-* The main idea comes from Prof. Nie and Wenjie Wang. I have proposed several improvements to it, including: (1) increasing the edges of the constructed graph, (2) considering both the session-related and vision-related knowledge, and (3) introducing the gate mechanism for knowledge fusion.  
+* The main idea comes from Prof. Nie and Wenjie Wang. I have proposed several improvements to it, including: (1) increasing the edges of the constructed graph, (2) considering the session-related knowledge, and (3) introducing the gate mechanism.  
 * In addition to the above suggestions, my main contributions to this work include system implemetation, experiments, the paper writing of methodology, dataset and experiments.  
 
 ### A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction
@@ -76,7 +76,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[code](https://github.com/SparkJiao/Self-Training-MRC)]  
 * The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.    
-* In this work, we propose a framework based on self-training, which supervises the evidence extractor with auto-generated evidence labels in an iterative process.    
+* In this work, we propose a framework based on self-training, which supervises the evidence extractor with auto-generated evidence labels.    
 * Our method achieves significant improvements on seven datasets over three MRC tasks.  
 * My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.  
 
@@ -85,7 +85,6 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 ### MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._  
 * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
-* We propose a contrastive self-supervised method for logical reasoning-oriented pre-training.
 * I am reponsible for all the work. The other co-authors help me polish the paper writing.  
 * Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
 
