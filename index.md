@@ -24,21 +24,21 @@ Supported arguments:
 
 ## **Education**
 
-### Shandong University `2019.9 - 2022.6 (expected)`  
+### Shandong University `2019.9 - 2022.6 (expected)`
 
 ```
-GPA: 90.12/100  
+GPA: 90.12/100
 ```
 
-- M.Sc. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)  
+- M.Sc. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
 
-### Shandong University `2015.9 - 2019.6`  
+### Shandong University `2015.9 - 2019.6`
 
 ```
-GPA: 85.03/100  
+GPA: 85.03/100
 ```
 
-- B.E. in Software Engineering  
+- B.E. in Software Engineering
 
 ## **Research Interests**
 
@@ -81,7 +81,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ## **Preprints**
 
-### *MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning*
+### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._  
 * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
 * I am reponsible for all the work. The other co-authors help me polish the paper writing.  
