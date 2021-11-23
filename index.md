@@ -108,7 +108,7 @@ _Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu
 
 Dean Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
 Dean Scholarship `School of Software, 2018` <br>
-Bronze Medal in the ACM-ICPC Asia Regional Contest ` China-Final, ICPC, 2016 & Urumqi Site, ICPC, 2017` <br>
+Bronze Medal in the ACM-ICPC Asia Regional Contest `China-Final, ICPC, 2016 & Urumqi Site, ICPC, 2017` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site, ICPC, 2016 and 2017` <br>
 <!-- Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br> -->
 <!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br> -->
