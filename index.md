@@ -76,8 +76,8 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[code](https://github.com/SparkJiao/Self-Training-MRC)]  
 * The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.    
-* In this work, we propose a framework based on self-training, which supervises the evidence extractor with auto-generated evidence labels.    
-* Our method achieves significant improvements on seven datasets over three MRC tasks.  
+* In this work, we propose a self-training method to supervise the evidence extractor with auto-generated evidence labels.    
+<!-- * Our method achieves significant improvements on seven datasets over three MRC tasks.   -->
 * My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.  
 
 ## **Preprints**
@@ -106,12 +106,12 @@ _Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu
 
 ## **Honors & Awards**
 
-Dean Scholarship `School of Computer Science and Technology, 2021` <br>
+Dean Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
 Dean Scholarship `School of Software, 2018` <br>
-Bronze Medal in The ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
-Silver Medal in The ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br>
-Bronze Medal in The ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br>
-Silver Medal in The ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br>
+Bronze Medal in the ACM-ICPC Asia Regional Contest ` China-Final, ICPC, 2016 & Urumqi Site, ICPC, 2017` <br>
+Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site, ICPC, 2016 and 2017` <br>
+<!-- Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br> -->
+<!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br> -->
 National Scholarship `Ministry of Education, 2016` <br>
 
 ---
