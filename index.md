@@ -56,7 +56,7 @@ GPA: 85.03/100
 * The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
 * We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction and retrieval-based masked language modeling, to augment the pre-trained language models with the ability of evidence extraction.   
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
-* I am reponsible for almost all of the work and the others co-authors give me valuable suggestions about the paper writing.  
+* I am reponsible for almost all of the work and the other co-authors give me valuable suggestions about the paper writing.  
 
 
 ### **Conversational Image Search**
@@ -105,7 +105,7 @@ _Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu
 
 ## **Honors & Awards**
 
-Dean Scholarship `School of Computer Science and Technology (2021) & School of Software (2018), Shandong University` <br>
+Dean's Scholarship `School of Computer Science and Technology (2021) & School of Software (2018), Shandong University` <br>
 Bronze Medal in the ACM-ICPC Asia Regional Contest `China-Final (2016) & Urumqi Site (2017), ICPC` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site (2016 & 2017), ICPC` <br>
 National Scholarship `Ministry of Education, 2016` <br>
