@@ -49,6 +49,14 @@ GPA: 85.03/100
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
+
+### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
+**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._  
+* The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
+* I complete almost all parts of this work. The other co-authors help me polish the paper writing.  
+* Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
+
+
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
@@ -79,13 +87,6 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 <!-- * Our method achieves significant improvements on seven datasets over three MRC tasks.   -->
 * My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.  
 
-## **Preprints**
-
-### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
-**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review by ACL 2022._  
-* The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
-* I complete almost all parts of this work. The other co-authors help me polish the paper writing.  
-* Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
 
 ## **Projects**
 
