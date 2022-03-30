@@ -51,7 +51,9 @@ GPA: 85.03/100
 
 
 ### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
-**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._  
+**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._
+[[pdf](https://arxiv.org/abs/2203.00357)]
+[[code](https://github.com/SparkJiao/MERIt)]  
 * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
 * I complete almost all parts of this work. The other co-authors help me polish the paper writing.  
 * Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
