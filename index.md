@@ -24,13 +24,13 @@ Supported arguments:
 
 ## **Education**
 
-### Shandong University `2019.9 - 2022.6 (expected)`
+### Shandong University `2019.9 - 2022.6`
 
 ```
 GPA: 90.12/100
 ```
 
-- M.Sc. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
+- M.E. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
 
 ### Shandong University `2015.9 - 2019.6`
 
@@ -54,40 +54,45 @@ GPA: 85.03/100
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._
 [[pdf](https://arxiv.org/abs/2203.00357)]
 [[code](https://github.com/SparkJiao/MERIt)]  
-* The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
+<!-- * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.  
 * I complete almost all parts of this work. The other co-authors help me polish the paper writing.  
-* Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.  
+* Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.   -->
+
+### **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning**  
+Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._
+[[pdf](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
+[[code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 
 ### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
 [[code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
-* The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
+<!-- * The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.   
 * We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction and retrieval-based masked language modeling, to augment the pre-trained language models with the ability of evidence extraction.   
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
-* I am reponsible for almost all of the work and the other co-authors give me valuable suggestions about the paper writing.  
+* I am reponsible for almost all of the work and the other co-authors give me valuable suggestions about the paper writing.   -->
 
 
 ### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[code](https://github.com/SparkJiao/LARCH)]  
-* Existing works have overlooked the (1) the session structure in the conversational query, and (2) the multiform knowledge.  
+<!-- * Existing works have overlooked the (1) the session structure in the conversational query, and (2) the multiform knowledge.  
 * We devise a novel contextual image search scheme, LARCH, to facilitate conversational image search. 
 <!-- * Besides, we construct a augmented dataset based on MMD to facilitate future research.   -->
 * The main idea comes from Prof. Nie and Wenjie Wang. I have proposed several improvements to it, including: (1) increasing the edges of the constructed graph, (2) considering the session-related knowledge, and (3) introducing the gate mechanism.  
-* In addition to the above suggestions, my main contributions to this work include system implemetation, experiments, the paper writing of methodology, dataset and experiments.  
+* In addition to the above suggestions, my main contributions to this work include system implemetation, experiments, the paper writing of methodology, dataset and experiments.   -->
 
 ### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
 
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[code](https://github.com/SparkJiao/Self-Training-MRC)]  
-* The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.    
+<!-- * The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.    
 * In this work, we propose a self-training method to supervise the evidence extractor with auto-generated evidence labels.    
 <!-- * Our method achieves significant improvements on seven datasets over three MRC tasks.   -->
-* My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.  
+* My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.   -->
 
 
 ## **Projects**
@@ -98,13 +103,18 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ## **Experience**
 
+### Lanboat `2022.4 - 2022.7`
+_Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
+Working on semantic parsing (NL2SQL) and machine reasoning.
+
 ### Damo Academy, Alibaba Group `2020.7 - 2021.2`
-_Research Intern._   Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)
+_Research Intern._   Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)  
+Woring on Pre-training for question answering.
 
 ### CoAI Group, Tsinghua University `2018.10 - 2019.8`
 
-_Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
-
+_Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)  
+Working on reading comprehension and dialogue state tracking.
 
 ## **Honors & Awards**
 
