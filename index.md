@@ -3,10 +3,10 @@ layout: cv
 title: Fangkai Jiao
 email:
   url: mailto:jiaofangkai@hotmail.com
-  text: jiaofangkai@hotmail.com
+  text: jiaofangkai [AT] hotmail.com
 homepage:
   url: http://sparkjiao.github.io
-  text: sparkjiao.github.io
+  text: jiaofangkai.com
 phone: +86 178 6415 4896
 ---
 
@@ -26,6 +26,7 @@ Supported arguments:
 
 ### Nanyang Technological University `2022.8 - 2026.6 (expected)`
 
+- Major in Computer Science and Engineering
 - Supervisor: Assoc Prof. Aixin Sun, Assoc Prof. Shafiq Joty, Dr. Nancy F. Chen 
 
 ### Shandong University `2019.9 - 2022.6`
@@ -56,7 +57,7 @@ GPA: 85.03/100
 
 
 ### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
-**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._  
+**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._
 [[pdf]()]
 [[code]()]
 
@@ -114,18 +115,18 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ## **Experience**
 
-### Lanboat `2022.4 - 2022.7`
+### **Lanboat** `2022.4 - 2022.7`
 _Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
 Working on semantic parsing (NL2SQL) and machine reasoning.
 
-### ByteCamp, Bytedance `2021.8.1 - 2021.8.7`
+### **ByteCamp, Bytedance** `2021.8.1 - 2021.8.7`
 Working on self-supervised pre-training for dialogue response selection.
 
-### Damo Academy, Alibaba Group `2020.7 - 2021.2`
+### **Damo Academy, Alibaba Group** `2020.7 - 2021.2`
 _Research Intern._   Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)  
 Working on Pre-training for question answering.
 
-### CoAI Group, Tsinghua University `2018.10 - 2019.8`
+### **CoAI Group, Tsinghua University** `2018.10 - 2019.8`
 
 _Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)  
 Working on reading comprehension and dialogue state tracking.
@@ -142,6 +143,6 @@ National Scholarship `Ministry of Education, 2016` <br>
 
 ---
 
-### Footer
+<!-- ### Footer
 
-Last updated: Nov. 2022
+Last updated: Nov. 2022 -->
