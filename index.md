@@ -24,13 +24,18 @@ Supported arguments:
 
 ## **Education**
 
+### Nanyang Technological University `2022.8 - 2026.6 (expected)`
+
+- Supervisor: Assoc Prof. Aixin Sun, Assoc Prof. Shafiq Joty, Dr. Nancy F. Chen 
+
 ### Shandong University `2019.9 - 2022.6`
 
 ```
 GPA: 90.12/100
 ```
 
-- M.E. in Computer Science and Technology, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/)
+- M.E. in Computer Science and Technology
+- Supervisor: Prof. [Liqiang Nie](https://liqiangnie.github.io/)
 
 ### Shandong University `2015.9 - 2019.6`
 
@@ -48,6 +53,12 @@ GPA: 85.03/100
 ## **Publications**
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
+
+
+### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
+**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._  
+[[pdf]()]
+[[code]()]
 
 
 ### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
@@ -107,6 +118,9 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 _Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
 Working on semantic parsing (NL2SQL) and machine reasoning.
 
+### ByteCamp, Bytedance `2021.8.1 - 2021.8.7`
+Working on self-supervised pre-training for dialogue response selection.
+
 ### Damo Academy, Alibaba Group `2020.7 - 2021.2`
 _Research Intern._   Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)  
 Working on Pre-training for question answering.
@@ -118,17 +132,16 @@ Working on reading comprehension and dialogue state tracking.
 
 ## **Honors & Awards**
 
-Dean's Scholarship `School of Computer Science and Technology (2021) & School of Software (2018), Shandong University` <br>
-Bronze Medal in the ACM-ICPC Asia Regional Contest `China-Final (2016) & Urumqi Site (2017), ICPC` <br>
-Silver Medal in the ACM-ICPC Asia Regional Contest `Qingdao Site (2016 & 2017), ICPC` <br>
+Dean's Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
+Dean Scholarship `School of Software, 2018` <br>
+Bronze Medal in the ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
+Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br>
+Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br>
+Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br>
 National Scholarship `Ministry of Education, 2016` <br>
-
-<!-- Dean Scholarship `School of Software, 2018` <br> -->
-<!-- Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br> -->
-<!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br> -->
 
 ---
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2021 -->
+Last updated: Nov. 2022
