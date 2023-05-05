@@ -109,6 +109,11 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ## **Projects**
 
+
+### PandaLLM
+
+*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (300+ stars)
+
 ### SLQA
 
 *An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks (ACL 2018).* [[code](https://github.com/SparkJiao/SLQA)] (75 stars)
