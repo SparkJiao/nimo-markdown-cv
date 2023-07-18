@@ -55,6 +55,16 @@ GPA: 85.03/100
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
+### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
+**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._
+[[pdf](https://arxiv.org/abs/2305.13718)]
+[[code](https://github.com/SparkJiao/MERIt-v2)]
+
+
+### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
+Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Preprint._
+[[pdf](https://arxiv.org/abs/2303.10868)]
+
 
 ### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
 **Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._
@@ -112,7 +122,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ### PandaLLM
 
-*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (300+ stars)
+*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (800+ stars)
 
 ### SLQA
 
