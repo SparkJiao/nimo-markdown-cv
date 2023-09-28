@@ -55,8 +55,8 @@ GPA: 85.03/100
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
-### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**  
-Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._  
+### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
+Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._
 [[pdf](https://arxiv.org/abs/2309.04766)]
 
 ### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
