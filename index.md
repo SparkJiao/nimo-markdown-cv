@@ -24,9 +24,9 @@ Supported arguments:
 
 ## **Education**
 
-### Nanyang Technological University `2022.8 - 2026.6 (expected)`
+### Nanyang Technological University & Infocomm Research (I2R), A*STAR `2022.8 - 2026.6 (expected)`
 
-- Major in Computer Science and Engineering
+- Ph.D. in Computer Science and Engineering
 - Supervisor: Assoc Prof. Aixin Sun, Assoc Prof. Shafiq Joty, Dr. Nancy F. Chen 
 
 ### Shandong University `2019.9 - 2022.6`
@@ -48,8 +48,9 @@ GPA: 85.03/100
 
 ## **Research Interests**
 
-- Question answering and machine reasoning
-- Pre-training for natural language understanding
+- Machine reasoning
+- Large langauge models
+- Self/weak-supervised pre-training
 
 ## **Publications**
 <!-- <font size=2>* means equal contribution.</font> -->
@@ -126,7 +127,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ### PandaLLM
 
-*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (800+ stars)
+*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (900+ stars)
 
 ### SLQA
 
@@ -164,4 +165,4 @@ National Scholarship `Ministry of Education, 2016` <br>
 
 <!-- ### Footer
 
-Last updated: Nov. 2022 -->
+Last updated: Oct. 2023 -->
