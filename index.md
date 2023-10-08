@@ -67,7 +67,7 @@ Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nan
 
 
 ### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
-Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Preprint._
+Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._
 [[pdf](https://arxiv.org/abs/2303.10868)]
 
 
@@ -127,7 +127,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ### PandaLLM
 
-*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (900+ stars)
+*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)][[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (900+ stars)
 
 ### SLQA
 
