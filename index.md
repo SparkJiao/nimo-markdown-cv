@@ -56,7 +56,8 @@ GPA: 85.03/100
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
-### Self/Weak-Supervised Learning & Machine Reasoning
+### **Self/Weak-Supervised Learning & Machine Reasoning**
+----
 
 #### **Unanswerable Visual Question Answering**
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._
@@ -87,8 +88,7 @@ Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nan
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
 <!-- * I am reponsible for almost all of the work and the other co-authors give me valuable suggestions about the paper writing.    -->
 
-### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
-
+#### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[code](https://github.com/SparkJiao/Self-Training-MRC)]  
@@ -97,7 +97,9 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 <!-- * Our method achieves significant improvements on seven datasets over three MRC tasks.   -->
 <!-- * My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.   -->
 
-### Multimodal Information Retrieval
+
+### **Multimodal Information Retrieval**
+----
 
 #### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
 Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._
