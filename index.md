@@ -56,22 +56,22 @@ GPA: 85.03/100
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
-### **Self/Weak-Supervised Learning & Machine Reasoning**
-----
+### **_Self/Weak-Supervised Learning & Machine Reasoning_**
+<br/>
 
-#### **Unanswerable Visual Question Answering**
+### **Unanswerable Visual Question Answering**
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._
 
-#### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
+### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
 Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._
 [[pdf](https://arxiv.org/abs/2309.04766)]
 
-#### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
+### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
 **Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Under Review by ARR._
 [[pdf](https://arxiv.org/abs/2305.13718)]
 [[code](https://github.com/SparkJiao/MERIt-v2)]
 
-#### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
+### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._
 [[pdf](https://arxiv.org/abs/2203.00357)]
 [[code](https://github.com/SparkJiao/MERIt)]  
@@ -79,7 +79,7 @@ Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nan
 <!-- * I complete almost all parts of this work. The other co-authors help me polish the paper writing.   -->
 <!-- * Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.   -->
 
-#### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
+### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._
 [[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
 [[code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
@@ -88,7 +88,7 @@ Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nan
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
 <!-- * I am reponsible for almost all of the work and the other co-authors give me valuable suggestions about the paper writing.    -->
 
-#### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
+### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._
 [[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
 [[code](https://github.com/SparkJiao/Self-Training-MRC)]  
@@ -98,26 +98,26 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 <!-- * My contributions in this work include the discussion of the idea, system implementation, all the experiments except those conducted on Quasar-T, and the paper writing of methodology.   -->
 
 
-### **Multimodal Information Retrieval**
-----
+### **_Multimodal Information Retrieval_**
+<br/>
 
-#### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
+### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
 Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._
 [[pdf](https://arxiv.org/abs/2303.10868)]
 
 
-#### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
+### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
 **Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._
 [[pdf]()]
 [[code]()]
 
-#### **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning**  
+### **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning**  
 Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._
 [[pdf](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
 [[code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 
-#### **Conversational Image Search**
+### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[code](https://github.com/SparkJiao/LARCH)]  
