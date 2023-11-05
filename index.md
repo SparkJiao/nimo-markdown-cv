@@ -58,8 +58,9 @@ GPA: 85.03/100
 
 ### **_Self/Weak-Supervised Learning & Machine Reasoning_**
 
-#### **Unanswerable Visual Question Answering**
-Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._
+#### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
+Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._  
+[[pdf](https://arxiv.org/abs/2310.10942)]
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
 Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._  
