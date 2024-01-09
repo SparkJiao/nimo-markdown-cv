@@ -59,17 +59,19 @@ GPA: 85.03/100
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
 #### **Improving In-context Learning via Bidirectional Alignment**
-Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._
+Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._  
+<br/>
 
 #### **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?**
-Hailin Chen*, **Fangkai Jiao**\*, Xingxuan Li*, Chengwei Qin*, Mathieu Ravaut*, Ruochen Zhao*, Caiming Xiong, Shafiq Joty. _Preprint._
+Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Preprint._  
+<br/>
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._  
 [[pdf](https://arxiv.org/abs/2310.10942)]
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
-Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._  
+Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._  
 [[pdf](https://arxiv.org/abs/2309.04766)]
 
 #### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
