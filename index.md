@@ -56,7 +56,13 @@ GPA: 85.03/100
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
-### **_Self/Weak-Supervised Learning & Machine Reasoning_**
+### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
+
+#### **Improving In-context Learning via Bidirectional Alignment**
+Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._
+
+#### **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?**
+Hailin Chen*, **Fangkai Jiao**\*, Xingxuan Li*, Chengwei Qin*, Mathieu Ravaut*, Ruochen Zhao*, Caiming Xiong, Shafiq Joty. _Preprint._
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._  
