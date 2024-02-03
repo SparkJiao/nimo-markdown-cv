@@ -58,12 +58,17 @@ GPA: 85.03/100
 
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
+
+#### **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**
+**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ICML._  
+<br/>
+
 #### **Improving In-context Learning via Bidirectional Alignment**
-Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._  
+Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Under Review by ICML._  
 <br/>
 
 #### **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?**
-Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Preprint._  
+Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Under Review by ICML._  
 <br/>
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
