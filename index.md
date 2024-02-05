@@ -61,23 +61,23 @@ GPA: 85.03/100
 
 #### **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**
 **Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ICML._  
-<br/>
+[[pdf](https://arxiv.org/abs/2402.00658)][[code & data & weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 #### **Improving In-context Learning via Bidirectional Alignment**
 Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Under Review by ICML._  
-<br/>
+[[pdf](https://arxiv.org/abs/2312.17055)]  
 
 #### **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?**
 Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Under Review by ICML._  
-<br/>
+[[pdf](https://arxiv.org/abs/2311.16989)][[repo](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI)]  
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._  
-[[pdf](https://arxiv.org/abs/2310.10942)]
+[[pdf](https://arxiv.org/abs/2310.10942)]  
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
 Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._  
-[[pdf](https://arxiv.org/abs/2309.04766)]
+[[pdf](https://arxiv.org/abs/2309.04766)][[Data](https://github.com/SeaEval/SeaEval)][[Leaderboard](https://seaeval.github.io/)]   
 
 #### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
 **Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Under Review by ARR._  
@@ -148,6 +148,10 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 ### PandaLLM
 
 *Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)][[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (1k stars)
+
+### llama-pipeline-parallel
+
+*A prototype repo for hybrid training of pipeline parallel and distributed data parallel.* [[code](https://github.com/SparkJiao/llama-pipeline-parallel)]
 
 ### SLQA
 
