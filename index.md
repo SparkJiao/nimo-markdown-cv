@@ -48,9 +48,9 @@ GPA: 85.03/100
 
 ## **Research Interests**
 
-- Machine reasoning
+- Machine reasoning and planning
 - Large langauge models
-- Self/weak-supervised pre-training
+- Self/weak-supervised training
 
 ## **Publications**
 <!-- <font size=2>* means equal contribution.</font> -->
