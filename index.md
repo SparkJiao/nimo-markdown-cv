@@ -61,41 +61,41 @@ GPA: 85.03/100
 
 #### **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**
 **Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ICML._  
-[[pdf](https://arxiv.org/abs/2402.00658)][[code & data & weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
+[[Paper](https://arxiv.org/abs/2402.00658)][[Code & Data & Weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 #### **Improving In-context Learning via Bidirectional Alignment**
 Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Under Review by ICML._  
-[[pdf](https://arxiv.org/abs/2312.17055)]  
+[[Paper](https://arxiv.org/abs/2312.17055)]  
 
 #### **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?**
 Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Under Review by ICML._  
-[[pdf](https://arxiv.org/abs/2311.16989)][[repo](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI)]  
+[[Paper](https://arxiv.org/abs/2311.16989)][[Repo](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI)]  
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._  
-[[pdf](https://arxiv.org/abs/2310.10942)]  
+[[Paper](https://arxiv.org/abs/2310.10942)]  
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
 Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._  
-[[pdf](https://arxiv.org/abs/2309.04766)][[Data](https://github.com/SeaEval/SeaEval)][[Leaderboard](https://seaeval.github.io/)]   
+[[Paper](https://arxiv.org/abs/2309.04766)][[Data](https://github.com/SeaEval/SeaEval)][[Leaderboard](https://seaeval.github.io/)]   
 
 #### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
 **Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Under Review by ARR._  
-[[pdf](https://arxiv.org/abs/2305.13718)]
-[[code](https://github.com/SparkJiao/MERIt-v2)]
+[[Paper](https://arxiv.org/abs/2305.13718)]
+[[Code](https://github.com/SparkJiao/MERIt-v2)]
 
 #### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._  
-[[pdf](https://arxiv.org/abs/2203.00357)]
-[[code](https://github.com/SparkJiao/MERIt)]  
+[[Paper](https://arxiv.org/abs/2203.00357)]
+[[Code](https://github.com/SparkJiao/MERIt)]  
 <!-- * The motivation of this work is to improve the generalization of neural logical reasoning models by devising task-oriented pre-training.   -->
 <!-- * I complete almost all parts of this work. The other co-authors help me polish the paper writing.   -->
 <!-- * Our system achieves new state-of-art performance on both [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) and LogiQA.   -->
 
 #### **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training**
 **Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _Findings of ACL 2021._  
-[[pdf](https://arxiv.org/pdf/2105.04201.pdf)]
-[[code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
+[[Paper](https://arxiv.org/pdf/2105.04201.pdf)]
+[[Code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]  
 <!-- * The motivation of this work is to alleviate the data hungry problem of machinea reading comprehension system.    -->
 <!-- * We propose a retrieval-based pre-training method, including two pretext tasks, namely surrounding sentences prediction and retrieval-based masked language modeling, to augment the pre-trained language models with the ability of evidence extraction.    -->
 <!-- - Our pre-training method has achieved substantial improvements over strong baselines on five reading comprehension benchmarks.   -->
@@ -103,8 +103,8 @@ Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, N
 
 #### **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction**
 Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._  
-[[pdf](https://arxiv.org/pdf/2005.05189.pdf)]
-[[code](https://github.com/SparkJiao/Self-Training-MRC)]  
+[[Paper](https://arxiv.org/pdf/2005.05189.pdf)]
+[[Code](https://github.com/SparkJiao/Self-Training-MRC)]  
 <!-- * The motivation of this study is that manually annotating the evidence in a paragraph for reading comprehension is expensive.     -->
 <!-- * In this work, we propose a self-training method to supervise the evidence extractor with auto-generated evidence labels.     -->
 <!-- * Our method achieves significant improvements on seven datasets over three MRC tasks.   -->
@@ -115,24 +115,24 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 #### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
 Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._  
-[[pdf](https://arxiv.org/abs/2303.10868)]
+[[Paper](https://arxiv.org/abs/2303.10868)]
 
 
 #### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
 **Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._  
-[[pdf](https://ieeexplore.ieee.org/document/9956734)]
-[[code](https://github.com/SparkJiao/dst-multi-woz-2.1/tree/master/CP-DST-update)]
+[[Paper](https://ieeexplore.ieee.org/document/9956734)]
+[[Code](https://github.com/SparkJiao/dst-multi-woz-2.1/tree/master/CP-DST-update)]
 
 #### **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning**  
 Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._  
-[[pdf](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
-[[code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
+[[Paper](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
+[[Code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 
 #### **Conversational Image Search**
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transactions on Image Processing (TIP) 2021_.  
-[[pdf](https://ieeexplore.ieee.org/document/9528996)]
-[[code](https://github.com/SparkJiao/LARCH)]  
+[[Paper](https://ieeexplore.ieee.org/document/9528996)]
+[[Code](https://github.com/SparkJiao/LARCH)]  
 <!-- * Existing works have overlooked the (1) the session structure in the conversational query, and (2) the multiform knowledge.   -->
 <!-- * We devise a novel contextual image search scheme, LARCH, to facilitate conversational image search.  -->
 <!-- * Besides, we construct a augmented dataset based on MMD to facilitate future research.   -->
@@ -147,11 +147,11 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 
 ### PandaLLM
 
-*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)][[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (1k stars)
+*Chinese Large Language Models based on LLaMA & Llama2.*  [[code](https://github.com/dandelionsllm/pandallm)][[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (1k stars)
 
 ### llama-pipeline-parallel
 
-*A prototype repo for hybrid training of pipeline parallel and distributed data parallel.* [[code](https://github.com/SparkJiao/llama-pipeline-parallel)]
+*A prototype repository for hybrid training of pipeline parallel and distributed data parallel based on DeepSpeed.* [[code](https://github.com/SparkJiao/llama-pipeline-parallel)]
 
 ### SLQA
 
@@ -189,4 +189,4 @@ National Scholarship `Ministry of Education, 2016` <br>
 
 <!-- ### Footer
 
-Last updated: Oct. 2023 -->
+Last updated: Feb. 2024 -->
