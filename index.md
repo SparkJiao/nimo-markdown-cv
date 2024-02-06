@@ -159,7 +159,7 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 
 ## **Experience**
 
-### **Lanboat** `2022.4 - 2022.7`
+### **Langboat Technology** `2022.4 - 2022.7`
 _Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
 Working on semantic parsing (NL2SQL) and symbolic machine reasoning.
 
