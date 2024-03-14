@@ -76,13 +76,13 @@ Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Unde
 [[Paper](https://arxiv.org/abs/2310.10942)]  
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
-Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Under Review by ARR._  
+Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _NAACL 2024._  
 [[Paper](https://arxiv.org/abs/2309.04766)][[Data](https://github.com/SeaEval/SeaEval)][[Leaderboard](https://seaeval.github.io/)]   
 
 #### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
-**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Under Review by ARR._  
+**Fangkai Jiao**, Zhiyang Teng, Bosheng Ding, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _NAACL 2024._  
 [[Paper](https://arxiv.org/abs/2305.13718)]
-[[Code](https://github.com/SparkJiao/MERIt-v2)]
+[[Code](https://github.com/SparkJiao/LogicLLM)]
 
 #### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Findings of ACL 2022._  
