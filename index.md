@@ -58,6 +58,10 @@ GPA: 85.03/100
 
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
+#### **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library**
+Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ruochen Zhao, Chengwei Qin, Caiming Xiong, Shafiq Joty. _Preprint._  
+[[Paper](https://arxiv.org/abs/2404.00699)][[Tool](https://github.com/ntunlp/LLMSanitize)]  
+
 
 #### **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**
 **Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ICML._  
@@ -177,13 +181,14 @@ Working on weak-supervised reading comprehension and dialogue state tracking.
 
 ## **Honors & Awards**
 
+Singapore International Graduate Award (SINGA) `Agency for Science, Technology & Research (A*STAR), 2022` <br>
 Dean's Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
-Dean Scholarship `School of Software, 2018` <br>
+Dean Scholarship `School of Software, Shandong University, 2018` <br>
 Bronze Medal in the ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br>
 Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br>
-National Scholarship `Ministry of Education, 2016` <br>
+National Scholarship `Ministry of Education, China, 2016` <br>
 
 ---
 
