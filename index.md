@@ -58,6 +58,14 @@ GPA: 85.03/100
 
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
+#### **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**
+Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Preprint._ 
+[[Paper](https://arxiv.org/abs/2404.14604)]  
+
+#### **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?**
+Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
+[[Paper](https://arxiv.org/abs/2404.12728)]  
+
 #### **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library**
 Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ruochen Zhao, Chengwei Qin, Caiming Xiong, Shafiq Joty. _Preprint._  
 [[Paper](https://arxiv.org/abs/2404.00699)][[Tool](https://github.com/ntunlp/LLMSanitize)]  
@@ -162,6 +170,10 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 *An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks (ACL 2018).* [[code](https://github.com/SparkJiao/SLQA)]
 
 ## **Experience**
+
+### **Microsoft Research Asia** `2024.5 - Now`
+_Research Intern._ Advised by Dr. [Xingxing Zhang](https://xingxingzhang.github.io/).  
+Working on reasoning for LLMs.
 
 ### **Langboat Technology** `2022.4 - 2022.7`
 _Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
