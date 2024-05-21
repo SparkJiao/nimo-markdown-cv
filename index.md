@@ -27,7 +27,7 @@ Supported arguments:
 ### Nanyang Technological University & Infocomm Research (I2R), A*STAR `2022.8 - 2026.6 (expected)`
 
 - Ph.D. in Computer Science and Engineering
-- Supervisor: Assoc Prof. [Shafiq Joty](https://raihanjoty.github.io/), Dr. [Nancy F. Chen](https://sites.google.com/site/nancyfchen/home), and Assoc Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/).   
+- Supervisor: Assoc Prof. [Shafiq Joty](https://raihanjoty.github.io/), Prof. [Nancy F. Chen](https://sites.google.com/site/nancyfchen/home), and Assoc Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/).   
 
 ### Shandong University `2019.9 - 2022.6`
 
@@ -59,7 +59,7 @@ GPA: 85.03/100
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
 #### **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**
-Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Preprint._ 
+Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Preprint._  
 [[Paper](https://arxiv.org/abs/2404.14604)]  
 
 #### **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?**
