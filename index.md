@@ -50,7 +50,7 @@ GPA: 85.03/100
 
 - Machine reasoning and planning
 - Large langauge models
-- Self/weak-supervised training
+- Self/weak-supervised training, reinforcement learning from human/AI feedback
 
 ## **Publications**
 <!-- <font size=2>* means equal contribution.</font> -->
