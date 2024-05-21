@@ -58,11 +58,11 @@ GPA: 85.03/100
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
 #### **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**
-Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Preprint._  
+Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Under Review by ARR._  
 [[Paper](https://arxiv.org/abs/2404.14604)]  
 
 #### **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?**
-Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
+Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Under Review by ARR._  
 [[Paper](https://arxiv.org/abs/2404.12728)]  
 
 #### **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library**
@@ -71,19 +71,19 @@ Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ru
 
 
 #### **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**
-**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ICML._  
+**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ARR._  
 [[Paper](https://arxiv.org/abs/2402.00658)][[Code & Data & Weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 #### **Improving In-context Learning via Bidirectional Alignment**
-Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Under Review by ICML._  
+Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Under Review by NeurIPS._  
 [[Paper](https://arxiv.org/abs/2312.17055)]  
 
 #### **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?**
-Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Under Review by ICML._  
+Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Under Review by COLM._  
 [[Paper](https://arxiv.org/abs/2311.16989)][[Repo](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI)]  
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
-Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI._  
+Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI (Minor Revision)._  
 [[Paper](https://arxiv.org/abs/2310.10942)]  
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
