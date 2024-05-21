@@ -48,8 +48,7 @@ GPA: 85.03/100
 
 ## **Research Interests**
 
-- Machine reasoning and planning
-- Large langauge models
+- Machine reasoning and planning via large language models
 - Self/weak-supervised training, reinforcement learning from human/AI feedback
 
 ## **Publications**
@@ -171,7 +170,7 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 
 ## **Experience**
 
-### **Microsoft Research Asia** `2024.5 - Now`
+### **Microsoft Research Asia** `2024.5 - 2024.11`
 _Research Intern._ Advised by Dr. [Xingxing Zhang](https://xingxingzhang.github.io/).  
 Working on reasoning for LLMs.
 
