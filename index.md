@@ -83,7 +83,7 @@ Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut
 [[Paper](https://arxiv.org/abs/2311.16989)][[Repo](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI)]  
 
 #### **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability**
-Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Under Review by TPAMI (Minor Revision)._  
+Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _TPAMI._  
 [[Paper](https://arxiv.org/abs/2310.10942)]  
 
 #### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
