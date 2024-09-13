@@ -164,15 +164,15 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 
 *A prototype repository for hybrid training of pipeline parallel and distributed data parallel based on DeepSpeed.* [[code](https://github.com/SparkJiao/llama-pipeline-parallel)]
 
-### SLQA
+### dpo-trajectory-reasoning
 
-*An Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks (ACL 2018).* [[code](https://github.com/SparkJiao/SLQA)]
+*An unified code base for DPO/PPO/GRPO training with support to tensor parallel and process reward model.* [[code](https://github.com/SparkJiao/dpo-trajectory-reasoning)]
 
 ## **Experience**
 
 ### **Microsoft Research Asia** `2024.5 - 2024.11`
 _Research Intern._ Advised by Dr. [Xingxing Zhang](https://xingxingzhang.github.io/).  
-Working on reasoning for LLMs.
+Working on weak-supervised learning for machine reasoning and code generation based on LLMs.
 
 ### **Langboat Technology** `2022.4 - 2022.7`
 _Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
