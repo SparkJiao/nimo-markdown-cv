@@ -71,7 +71,7 @@ Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ru
 
 
 #### **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**
-**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Under Review by ARR._  
+**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _EMNLP 2024._  
 [[Paper](https://arxiv.org/abs/2402.00658)][[Code & Data & Weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 #### **Improving In-context Learning via Bidirectional Alignment**
