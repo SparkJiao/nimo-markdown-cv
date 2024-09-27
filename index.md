@@ -155,6 +155,9 @@ Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Transac
 
 ## **Projects**
 
+### Learning from Pseudo Feedback for Code Generation and Reasoning
+
+Done during internship at MSRA.
 
 ### PandaLLM
 
