@@ -57,6 +57,13 @@ GPA: 85.03/100
 
 ### **_Self/Weak-Supervised Learning & Machine Reasoning & LLM_**
 
+#### **Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks**
+Xingxuan Li, Weiwen Xu, Ruochen Zhao, **Fangkai Jiao**, Shafiq Joty, Lidong Bing. _Under Review by ICLR._  
+[[Paper](https://arxiv.org/abs/2410.01428v1)]  
+
+#### **Preference Optimization for Reasoning with Pseudo Feedback**
+**Fangkai Jiao**, Geyang Guo, Xingxing Zhang, Nancy F. Chen, Shafiq Joty, Furu Wei. _Under Review by ICLR._  
+
 #### **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**
 Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Under Review by ARR._  
 [[Paper](https://arxiv.org/abs/2404.14604)]  
